@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>20694127342-2b6jh8m40u7koad984ftpgo3obs3a376.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.20694127342-2b6jh8m40u7koad984ftpgo3obs3a376</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>20694127342-1e17p5at1kbjn3himr8a5qbiii59ibef.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA67AiD5oos5tIKvY2anLNbeDJIO6J_QUo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>20694127342</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.filmer</string>
+	<key>PROJECT_ID</key>
+	<string>filmer-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>filmer-app.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:20694127342:ios:0c7040bcdd947730da59ff</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20694127342",
+    "project_id": "filmer-app",
+    "storage_bucket": "filmer-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20694127342:android:0f0967c8953bf91cda59ff",
+        "android_client_info": {
+          "package_name": "com.filmer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20694127342-j47jpra2hm4ek5r7md3jt659r6qmsqtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7iWRcuAj3NZP30mSpT9TGFy8itaMlNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20694127342-j47jpra2hm4ek5r7md3jt659r6qmsqtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
